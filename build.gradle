@@ -22,6 +22,7 @@ dependencies {
     //dev tools
     compileOnly 'org.projectlombok:lombok:1.18.24'
     annotationProcessor 'org.projectlombok:lombok:1.18.24'
+    developmentOnly 'org.springframework.boot:spring-boot-devtools'
 
     //test
     testImplementation 'org.springframework.boot:spring-boot-starter-test'

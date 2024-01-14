@@ -1,0 +1,14 @@
+
+ _______ _______ _______   _     _ _______ _______ _______ _______ _______ ___   _ _______ _______
+|       |       |       | | | _ | |       |  _    |       |       |       |   | | |       |       |
+|    _  |   _   |       | | || || |    ___| |_|   |  _____|   _   |       |   |_| |    ___|_     _|
+|   |_| |  | |  |       | |       |   |___|       | |_____|  | |  |       |      _|   |___  |   |
+|    ___|  |_|  |      _| |       |    ___|  _   ||_____  |  |_|  |      _|     |_|    ___| |   |
+|   |   |       |     |_  |   _   |   |___| |_|   |_____| |       |     |_|    _  |   |___  |   |
+|___|   |_______|_______| |__| |__|_______|_______|_______|_______|_______|___| |_|_______| |___|
+
+${AnsiColor.BLUE}:: Java Spring Boot ::${Ansi.DEFAULT} ${spring-boot.version}
+${AnsiColor.BRIGHT_GREEN}:: Java ::${Ansi.DEFAULT} ${java.version} (${java.home})
+${AnsiColor.BLUE}:: ${spring.application.name} ::${Ansi.DEFAULT} (${application.version})
+${AnsiColor.BRIGHT_GREEN}:: POC WebSocket using Redis + MongoDB ::${Ansi.DEFAULT} (vlatest)
+

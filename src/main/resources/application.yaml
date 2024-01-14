@@ -1,0 +1,17 @@
+#
+#Spring App Support
+#
+
+server.port: 22000
+spring.application.name: maf-service-ws
+application:
+  version: 0.0.1-beta
+
+
+#
+# Loggin suport
+#
+
+logging:
+  level:
+    br.com.j38: DEBUG
